@@ -20,7 +20,7 @@ jobs:
       - name: Set up Git credentials
         run: |
           git config --global user.name "hiteshkumar2187"
-          git config --global user.email "hiteshkumar2187"@gmail.com"
+          git config --global user.email "hitesh.kumar2187@gmail.com"
           git config --global credential.helper store
       - name: Semantic Release
         env:
