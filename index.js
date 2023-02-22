@@ -1,1 +1,1 @@
-console.log("HELLOW WORLD");
+console.log("HELLOW WORLD TO SEMANTIC RELEASE");
