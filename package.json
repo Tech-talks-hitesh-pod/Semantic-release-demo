@@ -1,0 +1,26 @@
+{
+  "name": "semantic-release-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "semantic-release": "semantic-release"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiteshkumar2187/Semantic-release-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hiteshkumar2187/Semantic-release-demo/issues"
+  },
+  "homepage": "https://github.com/hiteshkumar2187/Semantic-release-demo#readme",
+  "devDependencies": {
+    "@semantic-release/changelog": "^6.0.2",
+    "@semantic-release/git": "^10.0.1",
+    "semantic-release": "^20.1.0"
+  }
+}
