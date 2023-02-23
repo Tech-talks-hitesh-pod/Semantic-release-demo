@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hiteshkumar2187/Semantic-release-demo.git"
+    "url": "git+https://github.com/Tech-talks-hitesh-pod/Semantic-release-demo.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hiteshkumar2187/Semantic-release-demo/issues"
+    "url": "https://github.com/Tech-talks-hitesh-pod/Semantic-release-demo/issues"
   },
-  "homepage": "https://github.com/hiteshkumar2187/Semantic-release-demo#readme",
+  "homepage": "https://github.com/Tech-talks-hitesh-pod/Semantic-release-demo#readme",
   "devDependencies": {
     "@semantic-release/changelog": "^6.0.2",
     "@semantic-release/git": "^10.0.1",
